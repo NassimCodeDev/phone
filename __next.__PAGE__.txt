@@ -1,0 +1,13 @@
+1:"$Sreact.fragment"
+2:I[88008,["/phone/_next/static/chunks/0kx3u3u77v4~r.js","/phone/_next/static/chunks/0m86nvt9tcx4r.js"],"PremiumNavbar"]
+3:I[33494,["/phone/_next/static/chunks/0kx3u3u77v4~r.js","/phone/_next/static/chunks/0m86nvt9tcx4r.js"],"Hero"]
+4:I[78503,["/phone/_next/static/chunks/0kx3u3u77v4~r.js","/phone/_next/static/chunks/0m86nvt9tcx4r.js"],"TitaniumDesign"]
+5:I[7278,["/phone/_next/static/chunks/0kx3u3u77v4~r.js","/phone/_next/static/chunks/0m86nvt9tcx4r.js"],"CameraSystem"]
+6:I[99221,["/phone/_next/static/chunks/0kx3u3u77v4~r.js","/phone/_next/static/chunks/0m86nvt9tcx4r.js"],"N19Chip"]
+7:I[64822,["/phone/_next/static/chunks/0kx3u3u77v4~r.js","/phone/_next/static/chunks/0m86nvt9tcx4r.js"],"NovaIntelligence"]
+8:I[88165,["/phone/_next/static/chunks/0kx3u3u77v4~r.js","/phone/_next/static/chunks/0m86nvt9tcx4r.js"],"Endurance"]
+9:I[4809,["/phone/_next/static/chunks/0kx3u3u77v4~r.js","/phone/_next/static/chunks/0m86nvt9tcx4r.js"],"Preorder"]
+a:I[97367,["/phone/_next/static/chunks/0kx3u3u77v4~r.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"flex flex-col min-h-screen bg-black w-full overflow-hidden","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}]]}],[["$","script","script-0",{"src":"/phone/_next/static/chunks/0m86nvt9tcx4r.js","async":true}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"O60_rdDrFmtFq-QHU1KRv"}
+c:null
