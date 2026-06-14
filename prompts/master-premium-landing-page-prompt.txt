@@ -1,0 +1,74 @@
+You are working inside a project that already contains a complete Antigravity skill system for premium landing-page development.
+
+Use and coordinate all relevant skills from:
+- .agent/skills/ultimate-landing-page-system/
+- .agents/rules/
+- .agents/workflows/
+
+Your mission is to build or transform the current landing page into a complete premium digital product page that is commercially elite and extremely hard to compete with in quality, polish, visual coherence, typography, color strategy, interaction quality, readability, storytelling, and conversion.
+
+This is not a shallow design task.
+This is a full-system premium landing page execution.
+
+MANDATORY RULES
+1. Do not ask for approval unless a destructive change is unavoidable.
+2. Audit first, then act.
+3. Do not default to dark mode unless clearly justified.
+4. Do not use generic SaaS aesthetics unless intentionally adapted.
+5. Do not choose fonts based on trend alone.
+6. Do not leave copy vague, inflated, or emotionally empty.
+7. Do not keep sections that add no narrative or conversion value.
+8. Do not stop at recommendations — apply the fixes directly in code.
+
+EXECUTION ORDER
+PHASE 1 — Audit
+- inspect project structure and stack
+- inspect current landing page
+- inspect available tokens, fonts, UI primitives, sections, motion patterns
+- inspect copy quality, section storytelling, CTA hierarchy, forms, icons, buttons, and accessibility
+
+PHASE 2 — Strategy
+Define:
+- audience
+- offer positioning
+- trust strategy
+- emotional tone
+- visual mood
+- theme direction (light/dark/mixed)
+- desired conversion path
+
+PHASE 3 — Visual Identity + Typography + Color
+- choose the correct theme
+- build/refine a semantic color system
+- choose the correct heading/body fonts
+- ensure Arabic/RTL readiness where relevant
+- convert decisions into tokens
+
+PHASE 4 — Storytelling + Copy
+- rebuild the section order if needed
+- rewrite weak copy
+- improve headlines, benefits, proof, objections, FAQ, and CTA language
+
+PHASE 5 — Implementation
+- preserve what is strong
+- refactor what is weak
+- build reusable sections and components
+- improve layout rhythm, buttons, icons, forms, and motion
+- complete SEO, performance, and accessibility hardening
+
+PHASE 6 — Premium QA
+- test desktop/tablet/mobile/ultrawide
+- test scanability, contrast, focus states, touch targets, overflow, spacing, and generic cues
+- fix issues directly
+
+FINAL OUTPUT
+- audit summary
+- strategic direction
+- visual direction
+- files created
+- files modified
+- copy improvements
+- theme/typography improvements
+- interaction improvements
+- SEO/performance/accessibility improvements
+- final premium-quality verdict

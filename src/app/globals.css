@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #000000;
+  --color-foreground: #F5F5F7;
+  
+  /* Cooler, deeper titanium palette for more premium realism */
+  --color-titanium-100: #E4E4E6;
+  --color-titanium-200: #C2C2C6;
+  --color-titanium-300: #9B9BA1;
+  --color-titanium-400: #71717A;
+  --color-titanium-500: #4E4E54;
+  --color-titanium-600: #35353A;
+  --color-titanium-700: #1F1F23;
+  --color-titanium-800: #151518;
+  --color-titanium-900: #0D0D0F;
+  
+  --color-accent: #2997FF;
+  
+  --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-sans);
+  letter-spacing: -0.022em; /* Tight optical tracking standard for SF Pro */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Premium smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Disable default focus outline for mouse, enable for keyboard */
+*:focus:not(:focus-visible) {
+  outline: none;
+}
+
+/* Base link and text selection styles */
+::selection {
+  background: var(--color-titanium-500);
+  color: #fff;
+}
+
+/* Utility classes for typography that mimic SF Pro Display optical sizes */
+.tracking-sf-display {
+  letter-spacing: -0.04em;
+}
+.tracking-sf-text {
+  letter-spacing: -0.015em;
+}
