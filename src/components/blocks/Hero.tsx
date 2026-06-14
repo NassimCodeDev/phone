@@ -78,7 +78,7 @@ export function Hero() {
             transition={{ duration: 1.2, delay: 0.1, ease: [0.16, 1, 0.3, 1] }}
             className="text-titanium-300 font-semibold uppercase text-xs mb-6 tracking-sf-display"
           >
-            iPhone 17 Pro
+            Nova 17 Pro
           </motion.h2>
           
           <motion.h1 

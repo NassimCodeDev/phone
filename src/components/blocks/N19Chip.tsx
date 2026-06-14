@@ -4,7 +4,7 @@ import * as React from "react"
 import { motion, useInView } from "framer-motion"
 import { Cpu, Zap, Activity } from "lucide-react"
 
-export function A19Chip() {
+export function N19Chip() {
   const ref = React.useRef(null)
   const isInView = useInView(ref, { once: true, margin: "-15%" })
 
@@ -28,7 +28,7 @@ export function A19Chip() {
             transition={{ duration: 1.2, delay: 0.1, ease: [0.16, 1, 0.3, 1] }}
             className="text-5xl md:text-7xl lg:text-[100px] font-semibold tracking-sf-display text-white mb-8 leading-[0.9]"
         >
-          {"A19 Pro chip.".split("").map((char, i) => (
+          {"N19 Pro chip.".split("").map((char, i) => (
              <motion.span
                 key={`chip-${i}`}
                 initial={{ opacity: 0, y: 20 }}
@@ -55,7 +55,7 @@ export function A19Chip() {
           transition={{ duration: 1, delay: 0.4, ease: [0.16, 1, 0.3, 1] }}
           className="text-[20px] md:text-[24px] font-medium leading-[1.3] tracking-sf-text text-titanium-300 max-w-2xl mb-12"
         >
-          A monumental leap in graphics performance. The biggest redesign in the history of Apple GPUs creates an entirely new class of hardware-accelerated ray tracing.
+          A monumental leap in graphics performance. The biggest redesign in the history of Nova GPUs creates an entirely new class of hardware-accelerated ray tracing.
         </motion.p>
       </div>
 
@@ -75,7 +75,7 @@ export function A19Chip() {
               <div className="absolute inset-4 border border-titanium-600/10 rounded-xl opacity-30" />
               <div className="w-24 h-24 sm:w-32 sm:h-32 bg-black rounded-lg border border-titanium-600 shadow-[inset_0_0_20px_rgba(255,255,255,0.05)] flex items-center justify-center relative overflow-hidden">
                  <div className="absolute inset-0 opacity-20" style={{ backgroundImage: "linear-gradient(90deg, #333 1px, transparent 1px), linear-gradient(#333 1px, transparent 1px)", backgroundSize: "4px 4px" }} />
-                 <h4 className="text-white font-bold tracking-tighter text-3xl sm:text-4xl z-10 drop-shadow-md">A19</h4>
+                 <h4 className="text-white font-bold tracking-tighter text-3xl sm:text-4xl z-10 drop-shadow-md">N19</h4>
               </div>
            </div>
         </motion.div>

@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "iPhone 17 Pro - Apple",
-  description: "Designed with titanium. Built for Apple Intelligence. The all-new iPhone 17 Pro features a monumental leap in performance.",
+  title: "Nova 17 Pro",
+  description: "Designed with titanium. Built for Nova Intelligence. The all-new Nova 17 Pro features a monumental leap in performance.",
 };
 
 export default function RootLayout({

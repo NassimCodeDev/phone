@@ -2,8 +2,8 @@ import { PremiumNavbar } from "@/components/blocks/PremiumNavbar"
 import { Hero } from "@/components/blocks/Hero"
 import { TitaniumDesign } from "@/components/blocks/TitaniumDesign"
 import { CameraSystem } from "@/components/blocks/CameraSystem"
-import { A19Chip } from "@/components/blocks/A19Chip"
-import { AppleIntelligence } from "@/components/blocks/AppleIntelligence"
+import { N19Chip } from "@/components/blocks/N19Chip"
+import { NovaIntelligence } from "@/components/blocks/NovaIntelligence"
 import { Endurance } from "@/components/blocks/Endurance"
 import { Preorder } from "@/components/blocks/Preorder"
 
@@ -14,8 +14,8 @@ export default function Home() {
       <Hero />
       <TitaniumDesign />
       <CameraSystem />
-      <A19Chip />
-      <AppleIntelligence />
+      <N19Chip />
+      <NovaIntelligence />
       <Endurance />
       <Preorder />
     </main>

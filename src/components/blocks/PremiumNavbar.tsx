@@ -2,7 +2,7 @@
 
 import * as React from "react"
 import { motion, useScroll, useTransform } from "framer-motion"
-import { Apple } from "lucide-react"
+import { Hexagon } from "lucide-react"
 import { Button } from "@/components/ui/Button"
 
 export function PremiumNavbar() {
@@ -31,14 +31,14 @@ export function PremiumNavbar() {
       <div className="mx-auto flex h-full max-w-[1024px] items-center justify-between px-4 sm:px-6">
         <div className="flex items-center gap-6">
           <a href="#" className="text-titanium-100 hover:text-white transition-colors">
-            <Apple className="h-4 w-4" />
-            <span className="sr-only">Apple</span>
+            <Hexagon className="h-4 w-4" />
+            <span className="sr-only">Nova</span>
           </a>
           <nav className="hidden md:flex items-center gap-6 text-[12px] font-medium tracking-tight text-titanium-200">
             <a href="#" className="hover:text-white transition-colors">Store</a>
             <a href="#" className="hover:text-white transition-colors">Mac</a>
-            <a href="#" className="hover:text-white transition-colors">iPad</a>
-            <a href="#" className="hover:text-white transition-colors">iPhone</a>
+            <a href="#" className="hover:text-white transition-colors">Tablet</a>
+            <a href="#" className="hover:text-white transition-colors">Phone</a>
             <a href="#" className="hover:text-white transition-colors">Watch</a>
             <a href="#" className="hover:text-white transition-colors">Vision</a>
             <a href="#" className="hover:text-white transition-colors">AirPods</a>
@@ -46,7 +46,7 @@ export function PremiumNavbar() {
         </div>
         <div className="flex items-center gap-4">
           <div className="text-[12px] text-titanium-200 font-medium hidden sm:block mt-0.5">
-            iPhone 17 Pro
+            Nova 17 Pro
           </div>
           <motion.div
             style={{

@@ -52,7 +52,7 @@ export function TitaniumDesign() {
             transition={{ duration: 1, delay: 0.5, ease: [0.16, 1, 0.3, 1] }}
             className="text-[20px] md:text-[22px] font-medium leading-[1.4] tracking-sf-text text-titanium-200 max-w-lg mb-12"
           >
-            iPhone 17 Pro features a beautifully refined aerospace-grade titanium design. It’s incredibly strong, unexpectedly light, and delivers a stunning edge-to-edge viewing experience.
+            Nova 17 Pro features a beautifully refined aerospace-grade titanium design. It’s incredibly strong, unexpectedly light, and delivers a stunning edge-to-edge viewing experience.
           </motion.p>
           
           <motion.div

@@ -62,7 +62,7 @@ export function Preorder() {
         >
            <div className="flex flex-col items-center gap-2">
               <ShieldCheck className="w-5 h-5 text-titanium-400" />
-              <span className="text-titanium-200 text-sm font-medium tracking-tight">AppleCare+ Support</span>
+              <span className="text-titanium-200 text-sm font-medium tracking-tight">NovaCare+ Support</span>
            </div>
            <div className="w-px h-10 bg-titanium-800" />
            <div className="flex flex-col items-center gap-2">
@@ -91,13 +91,13 @@ export function Preorder() {
            transition={{ duration: 1, delay: 1.5 }}
            className="text-titanium-500 text-[13px] max-w-md mx-auto"
         >
-          * Trade-in values vary based on the condition, year, and configuration of your eligible trade-in device. Additional terms from Apple apply.
+          * Trade-in values vary based on the condition, year, and configuration of your eligible trade-in device. Additional terms from Nova apply.
         </motion.p>
       </motion.div>
 
       {/* Footer minimal - Ultra crisp */}
       <div className="w-full max-w-[1200px] mx-auto px-4 mt-32 pt-10 border-t border-titanium-800 flex flex-col md:flex-row justify-between items-center gap-6 text-titanium-500 text-xs font-medium">
-        <p>Copyright © 2026 Apple Inc. All rights reserved.</p>
+        <p>Copyright © 2026 Nova Inc. All rights reserved.</p>
         <div className="flex gap-6">
           <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
           <div className="w-px h-3 bg-titanium-700 mt-0.5" />

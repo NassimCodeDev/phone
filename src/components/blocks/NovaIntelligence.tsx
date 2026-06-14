@@ -4,7 +4,7 @@ import * as React from "react"
 import { motion, useInView, useScroll, useTransform } from "framer-motion"
 import { Sparkles } from "lucide-react"
 
-export function AppleIntelligence() {
+export function NovaIntelligence() {
   const ref = React.useRef(null)
   const isInView = useInView(ref, { once: true, margin: "-15%" })
   const { scrollYProgress } = useScroll({
@@ -18,7 +18,7 @@ export function AppleIntelligence() {
   return (
     <section ref={ref} className="relative py-40 sm:py-56 w-full bg-[#020202] overflow-hidden flex flex-col items-center">
       
-      {/* Siri / Apple Intelligence Organic Mesh Mesh */}
+      {/* Nova Intelligence Organic Mesh Mesh */}
       <div className="absolute inset-0 z-0 flex items-center justify-center pointer-events-none opacity-60">
         <motion.div 
           animate={{ 
@@ -56,7 +56,7 @@ export function AppleIntelligence() {
              transition={{ duration: 0.8, delay: 0.2 }}
              className="text-white font-semibold tracking-sf-display uppercase text-xs mb-8 bg-white/10 px-4 py-1.5 rounded-full border border-white/20 backdrop-blur-md"
         >
-          Apple Intelligence
+          Nova Intelligence
         </motion.h4>
 
         <motion.h3 
@@ -94,7 +94,7 @@ export function AppleIntelligence() {
           transition={{ duration: 1, delay: 1, ease: [0.16, 1, 0.3, 1] }}
           className="text-[22px] md:text-[26px] font-medium leading-[1.3] tracking-sf-text text-white/80 max-w-2xl mb-12 drop-shadow-md"
         >
-          Built right into your iPhone. It helps you write, express yourself, and get things done effortlessly. With groundbreaking privacy protections, nobody else can access your data—not even Apple.
+          Built right into your Nova. It helps you write, express yourself, and get things done effortlessly. With groundbreaking privacy protections, nobody else can access your data—not even Nova.
         </motion.p>
       </div>
 
